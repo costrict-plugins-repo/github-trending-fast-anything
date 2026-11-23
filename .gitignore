@@ -1,0 +1,8 @@
+/target
+**/.fast/target/
+**/.fast/lib/
+examples/*/.fast/
+examples/*/bin/
+examples/*/obj/
+src/csharp/bin/
+src/csharp/obj/
